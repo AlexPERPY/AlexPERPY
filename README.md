@@ -4,7 +4,7 @@
 
 I love analytics for the variety of tasks: the work of a data analyst is not limited to collecting and processing information. An analyst should be able to identify patterns, make forecasts, and create decision support systems. This makes the work interesting and diverse.
 
-- 👀 I like to study remotely, I took Stepik CUBEWartsPython courses, Python Basics for Data analysis, Python programming. I take courses on the basics of statistics and SQL. I regularly participate in specialized webinars. I'm learning English.
+👀 I like to study remotely, I took Stepik CUBEWartsPython courses, Python Basics for Data analysis, Python programming. I take courses on the basics of statistics and SQL. I regularly participate in specialized webinars. I'm learning English.
 
 I can already do this:
 
