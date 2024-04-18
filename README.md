@@ -5,7 +5,7 @@
 I love analytics for the variety of tasks: the work of a data analyst is not limited to collecting and processing information. An analyst should be able to identify patterns, make forecasts, and create decision support systems. This makes the work interesting and diverse.
 
 👀 Information is the new oil. Information with numbers and their interpretation is a nutritious cocktail for business. And I can cook it!
-I like to study remotely, I have completed a lot of Stepik courses. I solve math, statistics, SQL, and Python problems every day. I regularly participate in specialized webinars.
+I like to study remotely, I have completed a lot of Stepik courses. I solve math, statistics, SQL, and Python problems every day. I regularly participate in specialized webinars.I'm learning English.
 
 I can already do this:
 
